@@ -1,0 +1,11 @@
+{
+  "description": "Website for The Factories",
+  "owner": {
+    "username": "Lame Lame Username",
+    "email": "thefactoriesds@gmail.com"
+  },
+  "record": {
+    "A": "198.51.233.1",
+    "AAAA": "2620:2:6000::bad:dab:cafe"
+  }
+}
